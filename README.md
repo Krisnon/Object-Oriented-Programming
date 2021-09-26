@@ -1,2 +1,7 @@
-# Object-Oriented-Programming
-The repository for OOP class assignments.
+# 面向对象程序设计
+**姓名**：闫嘉明
+**学号**：2019K8009929043
+## 简介
+此仓库存储国科大2021-2022秋季学期面向对象程序设计课程作业。
+日常小作业存储于`Assignment_X`文件夹内。
+设计实现作业存储于`Final_Assignment`文件夹内。
